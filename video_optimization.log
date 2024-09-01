@@ -1,0 +1,4 @@
+2024-09-01 12:20:30,745 - ERROR - Error de OpenCV procesando la configuración (640, 480), d=5, sigmaColor=75, sigmaSpace=50: Unknown C++ exception from OpenCV code
+2024-09-01 12:20:43,830 - ERROR - Error de OpenCV procesando la configuración (640, 480), d=5, sigmaColor=75, sigmaSpace=50: Unknown C++ exception from OpenCV code
+2024-09-01 12:20:45,753 - ERROR - Error de OpenCV procesando la configuración (640, 480), d=5, sigmaColor=50, sigmaSpace=100: Unknown C++ exception from OpenCV code
+2024-09-01 12:20:47,637 - ERROR - Error de OpenCV procesando la configuración (640, 480), d=5, sigmaColor=50, sigmaSpace=100: Unknown C++ exception from OpenCV code
